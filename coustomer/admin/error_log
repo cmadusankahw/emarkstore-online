@@ -1,0 +1,2 @@
+[23-Mar-2020 01:09:26 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/accsxaec/emarkstore.online/coustomer/admin/conn.php on line 8
+[23-Mar-2020 01:09:28 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/accsxaec/emarkstore.online/coustomer/admin/conn.php on line 8

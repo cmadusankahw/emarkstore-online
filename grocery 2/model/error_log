@@ -1,0 +1,449 @@
+[24-Mar-2020 15:38:51 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/accsxaec/balapitiya.store/grocery/model/conn.php on line 8
+[25-Mar-2020 08:46:03 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 08:46:03 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 08:46:03 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:46:03 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:48:33 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 08:48:33 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 08:48:33 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:48:33 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:48:38 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 08:48:38 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 08:48:38 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:48:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:49:57 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 08:49:57 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 08:49:57 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:49:57 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:52:13 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 08:52:13 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 08:52:13 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:52:13 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:54:09 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 08:54:09 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 08:54:09 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 08:54:09 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 09:06:16 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 09:06:16 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 09:06:16 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 09:06:16 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:35:36 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 10:35:36 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 10:35:36 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:35:36 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:36:45 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 10:36:45 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 10:36:45 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 10:36:45 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:36:45 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:36:45 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:36:45 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:36:45 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:36:45 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:36:45 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:36:45 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:39:51 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 10:39:51 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 10:39:51 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 10:39:51 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:39:51 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:39:51 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:39:51 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:39:51 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:39:51 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:39:51 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:39:51 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:41:19 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 10:41:19 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 10:41:19 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 10:41:19 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:41:19 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:41:19 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:41:19 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:41:19 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:41:19 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:41:19 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:41:19 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:48:08 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 10:48:08 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 10:48:08 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 10:48:08 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:48:08 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 10:48:08 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:48:08 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 10:48:08 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:48:08 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 10:48:08 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:48:08 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 10:56:17 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 10:56:17 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 10:56:17 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 10:56:17 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 10:56:17 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 10:56:17 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 10:56:17 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 10:56:17 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 10:56:17 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 10:56:17 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 10:56:17 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 10:57:06 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 10:57:06 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 10:57:06 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 10:57:06 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 10:57:06 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 10:57:06 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 10:57:06 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 10:57:06 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 10:57:06 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 10:57:06 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 10:57:06 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 10:58:15 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 10:58:15 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 10:58:15 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 10:58:15 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 10:58:15 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 10:58:15 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 10:58:15 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 10:58:15 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 10:58:15 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 10:58:15 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 10:58:15 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:07:21 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:07:21 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:07:21 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:07:21 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:07:21 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:07:21 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:07:21 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:07:21 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:07:21 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:07:21 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:07:21 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:08:47 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:08:47 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:08:47 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:08:47 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:08:47 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:08:47 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:08:47 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:08:47 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:08:47 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:08:47 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:08:47 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:09:27 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:09:27 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:09:27 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:09:27 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:09:27 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:09:27 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:09:27 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:09:27 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:09:27 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:09:27 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:09:27 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:09:47 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:09:47 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:09:47 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:09:47 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:09:47 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:09:47 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:09:47 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:09:47 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:09:47 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:09:47 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:09:47 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:09:50 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:09:50 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:09:50 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:09:50 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:09:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:09:50 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:09:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:09:50 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:09:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:09:50 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:09:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:10:56 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:10:56 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:10:56 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:10:56 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:10:56 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 251
+[25-Mar-2020 11:10:56 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:10:56 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 273
+[25-Mar-2020 11:10:56 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:10:56 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 295
+[25-Mar-2020 11:10:56 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:10:56 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 317
+[25-Mar-2020 11:11:50 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:11:50 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:11:50 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 227
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 11:11:50 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 11:12:07 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:12:07 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:12:07 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:12:07 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 11:12:07 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 11:12:07 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 11:12:07 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 11:12:07 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 11:12:07 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 11:12:07 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 11:12:07 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 11:13:38 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:13:38 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:13:38 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:13:38 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 11:13:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 11:13:38 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 11:13:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 11:13:38 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 11:13:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 11:13:38 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 11:13:38 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 11:14:39 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[25-Mar-2020 11:14:39 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[25-Mar-2020 11:14:39 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[25-Mar-2020 11:14:39 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 11:14:39 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 249
+[25-Mar-2020 11:14:39 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 11:14:39 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 271
+[25-Mar-2020 11:14:39 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 11:14:39 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 293
+[25-Mar-2020 11:14:39 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[25-Mar-2020 11:14:39 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 315
+[27-Mar-2020 10:54:39 America/New_York] PHP Notice:  Undefined variable: result in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:54:39 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:54:43 America/New_York] PHP Notice:  Undefined variable: result in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:54:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:55:03 America/New_York] PHP Notice:  Undefined variable: result in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:55:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:55:13 America/New_York] PHP Notice:  Undefined variable: result in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:55:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:55:31 America/New_York] PHP Notice:  Undefined variable: result in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:55:31 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:55:35 America/New_York] PHP Notice:  Undefined variable: result in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 10:55:35 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 14
+[27-Mar-2020 11:09:14 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 34
+[27-Mar-2020 11:09:43 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:09:43 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:09:43 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:09:43 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:09:43 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:09:43 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:09:57 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:09:57 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:09:57 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:09:57 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:09:57 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:09:57 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:09:57 America/New_York] PHP Notice:  Undefined offset: 1 in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 34
+[27-Mar-2020 11:10:00 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:10:00 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:10:00 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:10:00 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:10:00 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:10:00 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:10:00 America/New_York] PHP Notice:  Undefined offset: 1 in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 34
+[27-Mar-2020 11:10:03 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:10:03 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:10:03 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:10:03 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:10:03 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:10:03 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:10:03 America/New_York] PHP Notice:  Undefined offset: 1 in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 34
+[27-Mar-2020 11:10:33 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:10:33 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:10:33 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:10:33 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:10:33 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:10:33 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:10:33 America/New_York] PHP Notice:  Undefined offset: 1 in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 34
+[27-Mar-2020 11:11:42 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:11:42 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:11:42 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:11:42 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:11:42 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:11:42 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:11:42 America/New_York] PHP Notice:  Undefined offset: 1 in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 32
+[27-Mar-2020 11:12:35 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:12:35 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:12:35 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:12:35 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:12:35 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 27
+[27-Mar-2020 11:12:35 America/New_York] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 28
+[27-Mar-2020 11:12:35 America/New_York] PHP Notice:  Undefined offset: 0 in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 32
+[27-Mar-2020 11:17:21 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[27-Mar-2020 11:17:21 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[27-Mar-2020 11:17:21 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  Use of undefined constant p - assumed 'p' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 85
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  Use of undefined constant p - assumed 'p' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 85
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 253
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 253
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 275
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 275
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 297
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 297
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 319
+[27-Mar-2020 11:17:21 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 319
+[27-Mar-2020 11:18:55 America/New_York] PHP Notice:  Undefined index: nameInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 2
+[27-Mar-2020 11:18:55 America/New_York] PHP Notice:  Undefined index: telInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 3
+[27-Mar-2020 11:18:55 America/New_York] PHP Notice:  Undefined index: areaInput in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 4
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  Use of undefined constant p - assumed 'p' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 85
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  Use of undefined constant p - assumed 'p' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 85
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 253
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 253
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  include(form-content.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 275
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  include(): Failed opening 'form-content.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 275
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 297
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 297
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  include(form-content-unit.php): failed to open stream: No such file or directory in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 319
+[27-Mar-2020 11:18:55 America/New_York] PHP Warning:  include(): Failed opening 'form-content-unit.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/accsxaec/balapitiya.store/grocery/model/order.php on line 319
+[27-Mar-2020 11:23:15 America/New_York] PHP Notice:  Undefined variable: conn in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 24
+[27-Mar-2020 11:23:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php:24
+Stack trace:
+#0 /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php(16): getdata()
+#1 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 24
+[27-Mar-2020 11:25:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:25:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php:26
+Stack trace:
+#0 /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php(17): getdata(0)
+#1 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:26:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php:26
+Stack trace:
+#0 /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php(17): getdata(0)
+#1 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 26
+[27-Mar-2020 11:27:53 America/New_York] PHP Notice:  Undefined offset: 2 in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 37
+[27-Mar-2020 11:27:58 America/New_York] PHP Notice:  Undefined offset: 2 in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 37
+[27-Mar-2020 11:30:18 America/New_York] PHP Notice:  Array to string conversion in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 37
+[27-Mar-2020 11:50:05 America/New_York] PHP Warning:  Use of undefined constant p - assumed 'p' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 29
+[27-Mar-2020 11:50:05 America/New_York] PHP Warning:  Use of undefined constant p - assumed 'p' (this will throw an Error in a future version of PHP) in /home/accsxaec/balapitiya.store/grocery/model/ordermodel.php on line 29
+[27-Mar-2020 13:13:35 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 40
+[27-Mar-2020 13:13:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 45
+[27-Mar-2020 13:16:28 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 40
+[27-Mar-2020 13:16:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 45
+[27-Mar-2020 13:17:01 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 40
+[27-Mar-2020 13:17:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 45
+[27-Mar-2020 13:18:22 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 40
+[27-Mar-2020 13:18:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 45
+[27-Mar-2020 13:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:22:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:22:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:22:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:22:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 37
+[27-Mar-2020 13:23:37 America/New_York] PHP Warning:  A non-numeric value encountered in /home/accsxaec/balapitiya.store/grocery/model/makeorder.php on line 49
